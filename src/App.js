@@ -20,7 +20,7 @@ function App() {
       <main className='main'>
         <h2>CEP:79003222</h2>
 
-        <span>Rua Teste algum</span>
+        <span>Rua: Teste algum</span>
         <span>Complemento: Algum complemento</span>
         <span>Vila Rosa</span>
         <span>Campo Grande - MS</span>

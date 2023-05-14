@@ -85,3 +85,19 @@
     margin-bottom: 16px;
     font-weight: bold;
 }
+
+
+@media(max-width: 620px){
+    .title{
+        font-size: 60px;
+    }
+
+    .main h2{
+        font-size: 25px;
+    }
+
+    .main {
+        width: 65%;
+        min-height: 250px;
+    }
+}
